@@ -1,42 +1,30 @@
 /* Room.java
  * Author: Nolan Renie
- * Date: 2024/04/21
+ * Date: 2024/05/07
 */
 
-//WIP basic class set-up
-
-import java.util.Random;
+//import java.util.Random;
 
 class Room {
-    private int length;
-    private int width;
-    private String contents;
-    private Room[] connections;
-    private String description;
-    private String specialFeatures;
+    private String name;
+    private String type;
+    private String content;
 
-    public Room() {
-        // Default constructor
+    public Room(String name, String type, String content) {
+        this.name = name;
+        this.type = type;
+        this.content = content;
     }
 
-    public void setDimensions(int length, int width) {
-        this.length = length;
-        this.width = width;
+    public String getName() {
+        return name;
     }
 
-    public void setContents(String contents) {
-        this.contents = contents;
+    public String getType() {
+        return type;
     }
 
-    public void setConnections(Room[] connections) {
-        this.connections = connections;
-    }
-
-    public void setDescription(String description) {
-        this.description = description;
-    }
-
-    public void setSpecialFeatures(String features) {
-        this.specialFeatures = features;
+    public String getContent() {
+        return content;
     }
 }

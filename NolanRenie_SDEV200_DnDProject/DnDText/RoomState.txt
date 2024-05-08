@@ -1,0 +1,80 @@
+it's ceiling partially collapsed
+it's floor partially collapsed
+it's contents mostly burned
+it's been used as a campsite
+the room's original contents are water damaged
+it's furniture wrecked but still present
+converted to some other use
+it's been stripped bare
+it's pristine and in original state
+it smells acrid
+it smells of chlorine
+it smells dank or moldy
+it smells earthy
+it smells of manure
+it smells metallic
+it smells of ozone
+it smells putrid
+it smells of rotting vegetation
+it smells salty and wet
+it smells smoky
+it smells stale
+it smells sulfurous
+it smells of urine
+the air is clear and damp
+the air is clear and drafty
+the air is clear but cold
+the air is foggy or misty and cold
+the air is clear, with mist covering floor
+the air is clear and warm
+the air is hazy and humid
+the air is smoky or steamy
+the air is clear, with smoke covering ceiling
+the air is clear and windy
+there's noise of a bang or slam
+there's noise of bellowing
+there's noise of chanting
+there's noise of chiming
+there's noise of chirping
+there's noise of clanking
+there's noise of clashing
+there's noise of clicking
+there's noise of coughing
+there's noise of creaking
+there's noise of drumming
+there's noise of footsteps ahead
+there's noise of footsteps approaching
+there's noise of footsteps behind
+there's noise of footsteps receding
+there's noise of footsteps to the side
+there's noise of giggling (faint)
+there's noise of a gong
+there's noise of hissing
+there's noise of a horn or trumpet sounding
+there's noise of howling
+there's noise of humming
+there's noise of jingling
+there's noise of knocking
+there's noise of laughter
+there's noise of murmuring
+there's noise of music
+there's noise of rattling
+there's noise of ringing
+there's noise of rustling
+there's noise of scratching or scrabbling
+there's noise of screaming
+there's noise of shuffling
+there's noise of slithering
+there's noise of snapping
+there's noise of sneezing
+there's noise of sobbing
+there's noise of splashing
+there's noise of splintering
+there's noise of squeaking
+there's noise of squealing
+there's noise of tapping
+there's noise of thumping
+there's noise of tinkling
+there's noise of whining
+there's noise of whispering
+there's noise of whistling

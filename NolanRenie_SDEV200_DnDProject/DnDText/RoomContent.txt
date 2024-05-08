@@ -1,0 +1,50 @@
+some gold pieces
+some silver pieces
+some copper pieces
+a rival adventuring party
+a basilisk
+a wyvern
+a dragon
+a lich
+a famous hero
+a prisoner
+a merchant
+a group of dwarfs
+a group of elfs
+a group of gnomes
+a group of halflings
+a group of bandits
+a group of goblins
+a group of orks
+a group of zombies
+a group of oozes
+a group of kobolds
+a group of adventurers
+a magic fountain
+a secret room
+an exit
+a chest holding a magic shield
+a chest holding a magic weapon
+a chest holding a spellbook
+a chest holding a holy artifact
+a chest holding an arcane artifact
+a chest holding a druidic artifact
+a mimic
+a chest holding a trap
+a chest holding magic armor
+a chest holding some mundane equipment
+a chest holding some mundane supplies
+a mysterious voice
+a crystal statue
+a poison trap
+some gems
+a signet ring
+a statue of a god
+THE BEAST
+nothng out of the ordinary
+a coffin with nothing inside
+a coffin with remains inside
+a coffin with a staked vampire inside
+a coffin with treasure inside
+a coffin with a trap inside
+an ancient mask
